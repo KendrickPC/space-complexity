@@ -36,7 +36,7 @@ function sum(nums) {
 }
 ```
 Above... time complexity is O(n), but space complexity O(1) because storing a number, regardless of the size of that number, takes up the same amount of space.
-The above example is constant time O(1).
+The above example is constant space O(1).
 
 ## Example 2:
 ##### O(n) space
